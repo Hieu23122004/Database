@@ -51,8 +51,7 @@
               "ViewState": "AgIAAEMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T04:29:37.784Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "ToolTip": "C:\\QuanLiBanQuanAo_Database-master\\Quanlibanquanao\\Admin.cs [Design]",
               "RelativeToolTip": "Quanlibanquanao\\Admin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T06:17:09.36Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-20T06:17:09.36Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Quanlibanquanao\\warehouse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T03:41:31.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T03:41:31.384Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "ToolTip": "C:\\QuanLiBanQuanAo_Database-master\\Quanlibanquanao\\warehouse.cs [Design]",
               "RelativeToolTip": "Quanlibanquanao\\warehouse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T03:37:03.749Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-18T03:37:03.749Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "Quanlibanquanao\\Staff.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T03:56:51.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T03:56:51.324Z"
             },
             {
               "$type": "Document",
@@ -126,8 +121,7 @@
               "ToolTip": "C:\\QuanLiBanQuanAo_Database-master\\Quanlibanquanao\\Staff.cs [Design]",
               "RelativeToolTip": "Quanlibanquanao\\Staff.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T03:53:25.798Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-18T03:53:25.798Z"
             }
           ]
         }
